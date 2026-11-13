@@ -1,0 +1,13 @@
+MyProject/
+│
+├── Documents/
+│   └── README.md
+│
+├── Images/
+│   └── README.md
+│
+├── Scripts/
+│   └── README.md
+│
+└── Config/
+    └── README.md
